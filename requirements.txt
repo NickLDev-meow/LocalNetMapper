@@ -1,0 +1,5 @@
+# netmapper has no third-party dependencies; it runs on the Python standard
+# library alone (sockets, subprocess, ipaddress, concurrent.futures).
+#
+# Optional, to run the test suite under pytest instead of stdlib unittest:
+# pytest
